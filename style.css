@@ -1,0 +1,23 @@
+.heading {
+    font-size: 50px;
+    width: 100%;
+    font-family: Impact;
+    margin: 0px;
+}
+
+.note {
+    font-size: 17px;
+    width: 100%;
+    font-family: Rockwell;
+}
+
+canvas {
+    border: 5px solid blanchedalmond;
+    margin-top: 110px;
+}
+
+
+/*
+font-family: 'Oswald', sans-serif;
+font-family: 'Gemunu Libre', sans-serif; 
+*/
